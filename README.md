@@ -1,4 +1,5 @@
 **Running the AI**
+
 Simply open index.html in your browser to see the AI in action. The AI uses a genetic algorithm to learn how to play Flappy Bird effectively.
 
 Directory Structure

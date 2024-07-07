@@ -1,7 +1,3 @@
-**Running the AI**
-
-Simply open index.html in your browser to see the AI in action. The AI uses a genetic algorithm to learn how to play Flappy Bird effectively.
-
 Directory Structure
 - library/: Contains external libraries used in the project.
 - bird.js: Script defining the bird's behavior and properties.
